@@ -1,27 +1,34 @@
-<h1 align="center">Hello 🌍, I'm Breno Baise</h1>
+<h1 align="center">Welcome,  I'm Breno Baise</h1>
 <h3 align="center">A Backend Software Engineer</h3>
 <h4 align="center">🎓 University of Westminster, 2025</h4>
 
+---
+
+### A bit about me
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=brenobaise&style=flat-square&color=blue" alt="Profile Views" />
+  I am an Italian Brazillian living in the United Kingdom, London for 15 years. <br>
+  I have a BEng degree in Software Engineering with First Class Honours @ the University of Westminster.
+
+When I am not working, I spend my time mostly learning about the Spring Ecosystem and deepening my knowledge in Java. Whenever I have spare time I also enjoying learning about new technologies, mostly through books.
+
+I also enjoy playing games whenever I am cooking for my wife, or going out with her 😂
+
 </p>
 
 ---
 
-<p align="center">
-  I hold a <b>BEng in Software Engineering</b> from the University of Westminster and currently call London home — I've been here for 15 years!
-</p>
-
-<p align="center">
-  My journey into programming started with a childhood fascination for the game 
-  <a href="https://www.tibia.com/news/?subtopic=latestnews" target="_blank">Tibia</a> (yes, that nostalgic old-school feel 😊). 
-  Playing on a private server not only sparked my interest, but also led me to help out with bug fixes using 
-  <a href="https://www.lua.org/" target="_blank">LUA</a> — my very first programming language. Interestingly, LUA was developed by a university in my native country, Brazil.
+<h3 align="left">My Academic Journey</h3>
+You can find more about my courses and certifications on:
+<p align="left">
+  <a href="https://github.com/brenobaise/my-academic-journey.git" target="_blank">
+    Visit my academic journey repo.
+  </a>
 </p>
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Where you can find me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/brenobaise" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" height="30" />
