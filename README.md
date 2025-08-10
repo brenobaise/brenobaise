@@ -1,7 +1,7 @@
 <h1 align="center">Hello World! 👋</h1>
 
 <p align="center">
- I am an Italian Brazillian living in the United Kingdom, London for 15 years. <br>
+ I am an Italian Brazillian living in London,United Kingdom for over 15 years. <br>
   I have a BEng degree in Software Engineering with First Class Honours @ the University of Westminster.
 </p>
 
