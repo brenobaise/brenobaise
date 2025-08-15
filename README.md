@@ -18,7 +18,7 @@ I also enjoy playing games whenever I am cooking for my wife, or going out with 
 
 💻 I spend a lot of time exploring the **Spring Ecosystem** and deepening my expertise in **Java**.  
 📚 I'm passionate about reading tech books and discovering new tools, techniques, and design patterns.  
-🍳 I love cooking for my wife, often with a game on the side or some music in the background.  
+🍳 I love cooking for my wife, often with some music in the background.  
 🎮 Gaming is one of my favorite ways to relax and recharge.  
 
 
